@@ -1,0 +1,32 @@
+@keyframes grubeli{
+    from{top: 2%; left: 60%;}
+    to{top: 2%; left: -2%;}
+}
+@keyframes grubeli1{
+    from{top: -8%%; left: 40%;}
+    to{top: -8%; left: -2%;}
+}
+@keyframes pepela {
+    from{left: 74px; bottom: 25%;}
+    to{left: 100%; bottom: 70%; width: 30px;}
+}
+@keyframes pepela1 {
+    from{left: 12%; bottom: 25%;}
+    to{left: 100%; bottom: 70%; width: 30px;}
+}
+@keyframes chitebi{
+    0%   {width: 234px; left: 12%; top: 8%;}
+    10%   {width: 240px; left: 13%; top: 10%; right: 20%;}
+    30%   {width: 260px; left: 14%; top: 11%;}
+    35%   {width: 270px; left: 15%; top: 12%;}
+    55%   {width: 278px; left: 25%; top: 13%;}
+    75%   {width: 300px; left: 29%;  top: 15%;}
+    85%   {width: 350px; left: 23%; top: 22%;}
+    100%   {width: 400px; left: 12%; top: 8%;}
+}
+@keyframes traqtori{
+    form{right: 0; button: 205px;}
+    to{
+        right: 100%;bottom: 205px;
+    }
+}

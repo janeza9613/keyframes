@@ -1,0 +1,70 @@
+.bg-img{
+    position: relative;
+}
+.mdelo{
+    width: 100%;
+}
+.grubeli1{
+    width: 431px;
+    position: absolute;
+    top: 2%;
+    left: 61%;
+    animation: grubeli 20s ease-in infinite;
+}
+
+.grubeli{
+    width: 353px;
+    position: absolute;
+    top: -8%;
+    left: 40%;
+    animation: grubeli1 20s ease-in infinite;
+}
+
+.pepela{
+    width: 72px;
+    position: absolute;
+    left: 74px;
+    bottom: 25%;
+    animation: pepela 15s ease-in infinite;
+    z-index: 2;
+}
+.pepela1{
+    width: 72px;
+    position: absolute;
+    left: 174px;
+    bottom: 25%;
+    animation: pepela1 13s ease-in infinite;
+    z-index: 2;
+}
+.chitebi{
+    width: 234px;
+    position: absolute;
+    left: 12%;
+    top: 8%;
+    animation: chitebi 15s ease-in infinite;
+}
+.traqtori{
+    width: 200px;
+    position: absolute;
+    right: 0px;
+    bottom: 205px;
+    animation: traqtori 20s ease-in infinite; 
+    z-index: 1;   
+}
+/* hover effect */
+.grubeli:hover{
+    transform: scale(4);
+    transition: all 2s;
+}
+.pepela:hover{
+    transform: scale(5);
+    transition: all 3s;
+}
+.pepela1:hover{
+    transform: scale(3);
+    transition: all 3s;
+}
+.chitebi:hover{
+    transform: scale(2);
+}
+
